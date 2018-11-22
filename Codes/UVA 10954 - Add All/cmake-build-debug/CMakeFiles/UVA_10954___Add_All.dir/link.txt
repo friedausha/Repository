@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/UVA_10954___Add_All.dir/main.cpp.o  -o UVA_10954___Add_All 

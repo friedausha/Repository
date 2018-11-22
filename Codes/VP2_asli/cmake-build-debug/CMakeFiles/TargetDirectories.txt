@@ -1,0 +1,3 @@
+/home/frieda/Codes/VP2_asli/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/frieda/Codes/VP2_asli/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/frieda/Codes/VP2_asli/cmake-build-debug/CMakeFiles/VP2_asli.dir

@@ -1,0 +1,3 @@
+/home/frieda/Codes/Sherlock and Valid String/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/frieda/Codes/Sherlock and Valid String/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/frieda/Codes/Sherlock and Valid String/cmake-build-debug/CMakeFiles/Sherlock_and_Valid_String.dir

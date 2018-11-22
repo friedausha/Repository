@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/anagram_by_stack.dir/main.cpp.o  -o anagram_by_stack 

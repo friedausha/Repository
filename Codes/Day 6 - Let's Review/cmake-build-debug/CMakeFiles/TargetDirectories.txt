@@ -1,0 +1,3 @@
+/home/frieda/Codes/Day 6 - Let's Review/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/frieda/Codes/Day 6 - Let's Review/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/frieda/Codes/Day 6 - Let's Review/cmake-build-debug/CMakeFiles/Day_6___Let_s_Review.dir

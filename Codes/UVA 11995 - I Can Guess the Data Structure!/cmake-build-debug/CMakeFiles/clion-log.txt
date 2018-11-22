@@ -1,0 +1,4 @@
+/opt/clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/frieda/Codes/UVA 11995 - I Can Guess the Data Structure!"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/frieda/Codes/UVA 11995 - I Can Guess the Data Structure!/cmake-build-debug

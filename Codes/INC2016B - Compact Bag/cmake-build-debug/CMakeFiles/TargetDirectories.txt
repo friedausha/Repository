@@ -1,0 +1,3 @@
+/home/frieda/Codes/INC2016B - Compact Bag/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/frieda/Codes/INC2016B - Compact Bag/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/frieda/Codes/INC2016B - Compact Bag/cmake-build-debug/CMakeFiles/INC2016B___Compact_Bag.dir

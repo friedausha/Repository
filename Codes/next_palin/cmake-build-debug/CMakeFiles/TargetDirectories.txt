@@ -1,0 +1,3 @@
+/home/frieda/Codes/next_palin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/frieda/Codes/next_palin/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/frieda/Codes/next_palin/cmake-build-debug/CMakeFiles/next_palin.dir

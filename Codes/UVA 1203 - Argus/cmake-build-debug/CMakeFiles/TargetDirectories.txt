@@ -1,0 +1,3 @@
+/home/frieda/Codes/UVA 1203 - Argus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/frieda/Codes/UVA 1203 - Argus/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/frieda/Codes/UVA 1203 - Argus/cmake-build-debug/CMakeFiles/UVA_1203___Argus.dir

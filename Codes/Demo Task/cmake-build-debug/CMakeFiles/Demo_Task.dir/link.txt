@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Demo_Task.dir/main.cpp.o  -o Demo_Task 

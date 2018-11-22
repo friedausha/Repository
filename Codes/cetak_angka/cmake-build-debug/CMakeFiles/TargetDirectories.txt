@@ -1,0 +1,3 @@
+/home/frieda/Codes/cetak_angka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/frieda/Codes/cetak_angka/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/frieda/Codes/cetak_angka/cmake-build-debug/CMakeFiles/cetak_angka.dir

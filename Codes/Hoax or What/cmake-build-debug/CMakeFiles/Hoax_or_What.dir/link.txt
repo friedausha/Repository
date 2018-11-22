@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Hoax_or_What.dir/main.cpp.o  -o Hoax_or_What 

@@ -1,0 +1,3 @@
+/home/frieda/Codes/Day 4 - Class vs Instance/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/frieda/Codes/Day 4 - Class vs Instance/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/frieda/Codes/Day 4 - Class vs Instance/cmake-build-debug/CMakeFiles/Day_4___Class_vs_Instance.dir

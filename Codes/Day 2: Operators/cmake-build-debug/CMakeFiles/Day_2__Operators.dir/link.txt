@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Day_2__Operators.dir/main.cpp.o  -o Day_2__Operators 

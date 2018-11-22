@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/INC2016B___Compact_Bag.dir/main.cpp.o  -o INC2016B___Compact_Bag 

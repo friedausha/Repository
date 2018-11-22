@@ -1,0 +1,3 @@
+/home/frieda/Codes/CONVERSION/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/frieda/Codes/CONVERSION/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/frieda/Codes/CONVERSION/cmake-build-debug/CMakeFiles/CONVERSION.dir

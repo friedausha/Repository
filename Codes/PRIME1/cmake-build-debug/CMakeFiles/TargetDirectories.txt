@@ -1,0 +1,3 @@
+/home/frieda/Codes/PRIME1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/frieda/Codes/PRIME1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/frieda/Codes/PRIME1/cmake-build-debug/CMakeFiles/PRIME1.dir

@@ -1,0 +1,3 @@
+/home/frieda/Codes/NO 3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/frieda/Codes/NO 3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/frieda/Codes/NO 3/cmake-build-debug/CMakeFiles/NO_3.dir

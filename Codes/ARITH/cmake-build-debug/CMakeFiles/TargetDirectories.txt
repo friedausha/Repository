@@ -1,0 +1,3 @@
+/home/frieda/Codes/ARITH/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/frieda/Codes/ARITH/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/frieda/Codes/ARITH/cmake-build-debug/CMakeFiles/ARITH.dir

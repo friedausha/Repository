@@ -1,0 +1,3 @@
+/home/frieda/Codes/Problem - Create a Problem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/frieda/Codes/Problem - Create a Problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/frieda/Codes/Problem - Create a Problem/cmake-build-debug/CMakeFiles/Problem___Create_a_Problem.dir

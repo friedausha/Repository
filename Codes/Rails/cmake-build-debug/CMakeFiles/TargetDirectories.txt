@@ -1,0 +1,3 @@
+/home/frieda/Codes/Rails/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/frieda/Codes/Rails/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/frieda/Codes/Rails/cmake-build-debug/CMakeFiles/Rails.dir

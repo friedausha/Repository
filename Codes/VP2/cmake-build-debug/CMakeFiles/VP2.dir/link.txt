@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/VP2.dir/main.cpp.o  -o VP2 

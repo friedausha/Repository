@@ -1,0 +1,3 @@
+/home/frieda/Codes/prg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/frieda/Codes/prg/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/frieda/Codes/prg/cmake-build-debug/CMakeFiles/prg.dir

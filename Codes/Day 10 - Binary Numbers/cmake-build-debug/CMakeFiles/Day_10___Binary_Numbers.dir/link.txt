@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Day_10___Binary_Numbers.dir/main.cpp.o  -o Day_10___Binary_Numbers 

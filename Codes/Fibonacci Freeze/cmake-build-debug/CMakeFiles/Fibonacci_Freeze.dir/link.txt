@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Fibonacci_Freeze.dir/main.cpp.o  -o Fibonacci_Freeze 

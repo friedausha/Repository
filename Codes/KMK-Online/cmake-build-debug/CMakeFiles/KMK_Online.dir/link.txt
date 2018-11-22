@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/KMK_Online.dir/main.cpp.o  -o KMK_Online 

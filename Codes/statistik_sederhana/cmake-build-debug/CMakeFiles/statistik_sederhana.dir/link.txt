@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/statistik_sederhana.dir/main.cpp.o  -o statistik_sederhana 

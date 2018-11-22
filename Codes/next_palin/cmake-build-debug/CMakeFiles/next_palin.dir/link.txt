@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/next_palin.dir/main.cpp.o  -o next_palin 

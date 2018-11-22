@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Day_6___Let_s_Review.dir/main.cpp.o  -o Day_6___Let_s_Review 

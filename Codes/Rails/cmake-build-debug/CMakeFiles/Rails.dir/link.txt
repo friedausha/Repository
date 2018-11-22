@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Rails.dir/main.cpp.o  -o Rails 

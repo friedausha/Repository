@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cetak_angka.dir/main.cpp.o  -o cetak_angka 

@@ -1,0 +1,3 @@
+/home/frieda/Codes/Day 8 - Dictionaries and Maps/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/frieda/Codes/Day 8 - Dictionaries and Maps/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/frieda/Codes/Day 8 - Dictionaries and Maps/cmake-build-debug/CMakeFiles/Day_8___Dictionaries_and_Maps.dir

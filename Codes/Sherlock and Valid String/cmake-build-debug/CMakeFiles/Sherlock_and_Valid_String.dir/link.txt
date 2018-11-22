@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Sherlock_and_Valid_String.dir/main.cpp.o  -o Sherlock_and_Valid_String 

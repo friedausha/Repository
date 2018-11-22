@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Day_7___Arrays.dir/main.cpp.o  -o Day_7___Arrays 

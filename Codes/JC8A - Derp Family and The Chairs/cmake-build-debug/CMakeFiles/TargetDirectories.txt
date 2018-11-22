@@ -1,0 +1,3 @@
+/home/frieda/Codes/JC8A - Derp Family and The Chairs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/frieda/Codes/JC8A - Derp Family and The Chairs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/frieda/Codes/JC8A - Derp Family and The Chairs/cmake-build-debug/CMakeFiles/JC8A___Derp_Family_and_The_Chairs.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/IDEAFUSE18QB___Complicated_Robot.dir/main.cpp.o  -o IDEAFUSE18QB___Complicated_Robot 

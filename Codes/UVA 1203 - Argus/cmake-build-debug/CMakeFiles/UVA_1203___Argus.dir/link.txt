@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/UVA_1203___Argus.dir/main.cpp.o  -o UVA_1203___Argus 

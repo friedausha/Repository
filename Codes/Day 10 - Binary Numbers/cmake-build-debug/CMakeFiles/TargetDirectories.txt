@@ -1,0 +1,3 @@
+/home/frieda/Codes/Day 10 - Binary Numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/frieda/Codes/Day 10 - Binary Numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/frieda/Codes/Day 10 - Binary Numbers/cmake-build-debug/CMakeFiles/Day_10___Binary_Numbers.dir

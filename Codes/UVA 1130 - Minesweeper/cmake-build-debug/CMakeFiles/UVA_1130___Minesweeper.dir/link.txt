@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/UVA_1130___Minesweeper.dir/main.cpp.o  -o UVA_1130___Minesweeper 

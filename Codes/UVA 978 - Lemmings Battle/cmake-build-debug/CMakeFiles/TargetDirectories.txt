@@ -1,0 +1,3 @@
+/home/frieda/Codes/UVA 978 - Lemmings Battle/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/frieda/Codes/UVA 978 - Lemmings Battle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/frieda/Codes/UVA 978 - Lemmings Battle/cmake-build-debug/CMakeFiles/UVA_978___Lemmings_Battle.dir
